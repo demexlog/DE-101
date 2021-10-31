@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T18:24:04.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="DYZB44IpzeXErhvWddNb" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T18:24:53.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="pnX0SX7nTnbDIMRq-poe" version="15.6.2" type="github">
   <diagram id="KRDX1tCNhqWXDtDFJNsh" name="Page-1">
     <mxGraphModel dx="1185" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,14 +49,21 @@
         <mxCell id="tBG5rpahkcAqieA5wIdM-15" value="Holistics &lt;br&gt;(as Transform)" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
           <mxGeometry x="340" y="660" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tBG5rpahkcAqieA5wIdM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBG5rpahkcAqieA5wIdM-18" target="tBG5rpahkcAqieA5wIdM-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tBG5rpahkcAqieA5wIdM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBG5rpahkcAqieA5wIdM-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="785" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tBG5rpahkcAqieA5wIdM-18" value="Holistics&lt;br&gt;(dashboards)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="620" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tBG5rpahkcAqieA5wIdM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBG5rpahkcAqieA5wIdM-19" target="tBG5rpahkcAqieA5wIdM-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tBG5rpahkcAqieA5wIdM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBG5rpahkcAqieA5wIdM-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tBG5rpahkcAqieA5wIdM-19" value="Excel (reports)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="620" y="280" width="80" height="80" as="geometry" />
@@ -64,8 +71,10 @@
         <mxCell id="tBG5rpahkcAqieA5wIdM-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tBG5rpahkcAqieA5wIdM-20" target="tBG5rpahkcAqieA5wIdM-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tBG5rpahkcAqieA5wIdM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBG5rpahkcAqieA5wIdM-20" target="tBG5rpahkcAqieA5wIdM-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tBG5rpahkcAqieA5wIdM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBG5rpahkcAqieA5wIdM-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tBG5rpahkcAqieA5wIdM-20" value="Python" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="620" y="400" width="80" height="80" as="geometry" />
